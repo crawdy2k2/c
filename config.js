@@ -9,7 +9,7 @@ const CONFIG = {
     btnYes: 'cóooooo',
     btnNo: 'Không Pa à :3',
     mess: 'Tớ biết mà 😗',
-    messDesc: 'Mình bắt đầu trò chuyện nhé.',
+    messDesc: 'Mình bắt đầu trò chuyện nhé!',
     btnAccept: 'Okiii <3',
     messLink: 'https://www.facebook.com/messages/t/100026031100253' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
